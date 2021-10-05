@@ -1,7 +1,7 @@
 install: install-deps
 
 install-deps:
-		npm ci
+	npm ci
 
 run:
-		bin/nodejs-package.js		
+	bin/nodejs-package.js		
