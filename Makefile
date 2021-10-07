@@ -7,10 +7,7 @@ run:
 	bin/nodejs-package.js	
 
 publish:
-	npm publish --dry-run
-
-link:
-	npm link			
+	npm publish --dry-run		
 
 lint:
 	npx eslint .	
