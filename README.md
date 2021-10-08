@@ -24,6 +24,13 @@ Example of work: brain-gcd
 
 [![asciicast](https://asciinema.org/a/ykG3WWPt10Er81Dh0yQgMfcnf.svg)](https://asciinema.org/a/ykG3WWPt10Er81Dh0yQgMfcnf)
 
+**Game №4: Brain-progression!**
+- Try to continue the sequence. Use `brain-progression` in terminal to start the game.
+
+Example of work: brain-progression
+
+[![asciicast](https://asciinema.org/a/XO5Vi29nRKthpKuOCZO3QMEL3.svg)](https://asciinema.org/a/XO5Vi29nRKthpKuOCZO3QMEL3)
+
 #### *Hexlet tests and linter status:*
 [![Actions Status](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/actions)
 
