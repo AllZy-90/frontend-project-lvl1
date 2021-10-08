@@ -17,6 +17,13 @@ Example of work: brain-calc
 
 [![asciicast](https://asciinema.org/a/m8lpFrDpKBsh3Wk21mPIpU4th.svg)](https://asciinema.org/a/m8lpFrDpKBsh3Wk21mPIpU4th)
 
+**Game №3: Brain-gcd!**
+- Try to calculate the greatest common divisor. Use `brain-gcd` in terminal to start the game.
+
+Example of work: brain-gcd
+
+[![asciicast](https://asciinema.org/a/ykG3WWPt10Er81Dh0yQgMfcnf.svg)](https://asciinema.org/a/ykG3WWPt10Er81Dh0yQgMfcnf)
+
 #### *Hexlet tests and linter status:*
 [![Actions Status](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/actions)
 
