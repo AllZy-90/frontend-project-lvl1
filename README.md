@@ -10,6 +10,13 @@ Example of work: brain-even
 
 [![asciicast](https://asciinema.org/a/L1ve4szT6ljyIyhFPgJuanclZ.svg)](https://asciinema.org/a/L1ve4szT6ljyIyhFPgJuanclZ)
 
+**Game №2: Brain-Calculator!**
+- Try to calculate value of the expression. Use `brain-calc` in terminal to start the game.
+
+Example of work: brain-calc
+
+[![asciicast](https://asciinema.org/a/m8lpFrDpKBsh3Wk21mPIpU4th.svg)](https://asciinema.org/a/m8lpFrDpKBsh3Wk21mPIpU4th)
+
 #### *Hexlet tests and linter status:*
 [![Actions Status](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/actions)
 
