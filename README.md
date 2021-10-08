@@ -31,6 +31,13 @@ Example of work: brain-progression
 
 [![asciicast](https://asciinema.org/a/XO5Vi29nRKthpKuOCZO3QMEL3.svg)](https://asciinema.org/a/XO5Vi29nRKthpKuOCZO3QMEL3)
 
+**Game №5: Brain-prime!**
+- Try to guess if the number is prime. Use `brain-prime` in terminal to start the game.
+
+Example of work: brain-prime
+
+[![asciicast](https://asciinema.org/a/vw8phThihuLpLssX0K15cG7VX.svg)](https://asciinema.org/a/vw8phThihuLpLssX0K15cG7VX)
+
 #### *Hexlet tests and linter status:*
 [![Actions Status](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Alla-Zyapaeva/frontend-project-lvl1/actions)
 
