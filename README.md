@@ -6,6 +6,8 @@ Clone this repository to your computer. Run `npm link` in terminal. Run `make in
 **Game №1: Brain-even!** 
 - Try to guess if the number is even. Use `brain-even` in terminal to start the game.
 
+Example of work: brain-even
+
 [![asciicast](https://asciinema.org/a/L1ve4szT6ljyIyhFPgJuanclZ.svg)](https://asciinema.org/a/L1ve4szT6ljyIyhFPgJuanclZ)
 
 #### *Hexlet tests and linter status:*
